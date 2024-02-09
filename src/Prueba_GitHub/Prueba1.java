@@ -6,7 +6,16 @@ package Prueba_GitHub;
 /**
  * 
  */
+
 public class Prueba1 {
+	
+		@Override
+		public boolean equals(Object obj) {
+			// TODO Auto-generated method stub
+			return super.equals(obj);
+		}
+		
+	
 	private void syso() {
 		// TODO Auto-generated method stub
 
