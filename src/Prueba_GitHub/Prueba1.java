@@ -14,7 +14,7 @@ public class Prueba1 {
 			// TODO Auto-generated method stub
 			return super.equals(obj);
 		}
-		
+		// que pasa
 	
 	private void syso() {
 		// TODO Auto-generated method stub
