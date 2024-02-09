@@ -7,7 +7,10 @@ package Prueba_GitHub;
  * 
  */
 public class Prueba1 {
+	private void syso() {
+		// TODO Auto-generated method stub
 
+	}
 	/**
 	 * 
 	 */
